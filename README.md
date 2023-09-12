@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm a computer science student from Israel who is deeply passionate about technology and constantly driven to learn more. <br>Currently in my second year of studies, <br>I'm excited to gain hands-on experience and further develop my skills in the field.ew challenges to tackle and opportunities to grow my knowledge and abilities.
+I'm a computer science student from Israel who is deeply passionate about technology and constantly driven to learn more. <br>Currently in my second year of studies, <br>"I am eager to acquire practical experience, allowing me to enhance my skills in order to take on challenges, explore new opportunities, and expand my knowledge and abilities within the field.
 
 
 ## 🌐 Socials:
