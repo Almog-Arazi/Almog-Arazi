@@ -8,7 +8,7 @@ My site -https://almog-arazi.github.io/almog_site/
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/almog-arazi/) 
 
 # 💻 Tech Stack:
-[![My Skills](https://skillicons.dev/icons?i=c,html,java,js,css,python,aws,bootstrap,ionic,figma,svg,ai,git,linux,arduino)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,html,java,js,css,python,aws,opencv,bootstrap,figma,svg,ai,git,linux,raspberrypi,arduino)](https://skillicons.dev)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Almog-Arazi&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
