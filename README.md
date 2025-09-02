@@ -1,5 +1,5 @@
 # 💫 About Me:
-  I'm a computer science student from Israel who is deeply passionate about technology and constantly driven to learn more. <br>Currently in my fourth year of studies,, <br>I am eager to acquire practical experience, allowing me to enhance my skills in order to take on challenges, explore new opportunities, and expand my knowledge and abilities within the field.
+  I'm a Computer Vision Engineer from Israel who is deeply passionate about technology and constantly driven to learn more.I am eager to acquire practical experience, allowing me to enhance my skills in order to take on challenges, explore new opportunities, and expand my knowledge and abilities within the field.
 
 My site -https://almog-arazi.github.io/almog_site/
 
