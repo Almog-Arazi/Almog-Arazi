@@ -1,7 +1,7 @@
 # 💫 About Me:
   I'm a Computer Vision Engineer from Israel who is deeply passionate about technology and constantly driven to learn more.I am eager to acquire practical experience, allowing me to enhance my skills in order to take on challenges, explore new opportunities, and expand my knowledge and abilities within the field.
 
-My site -https://almog-arazi.github.io/almog_site/
+My site -[https://almog-arazi.github.io/almog_site/](https://almog-arazi.com/)
 
 
 ## 🌐 Socials:
